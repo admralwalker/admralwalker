@@ -1,6 +1,6 @@
 # Hi, I'm Admiral Walker
 
-Cloud infrastructure and platform engineer. I have been building on AWS since 2018, and I run three live products as Founder and CEO of UnHidden Holdings LLC.
+Cloud infrastructure and platform engineer. I have been building production cloud systems since 2018, and I run three live products as Founder and CEO of UnHidden Holdings LLC.
 
 Portfolio: https://admralwalker.github.io
 LinkedIn: https://www.linkedin.com/in/admiralwalker
@@ -16,11 +16,11 @@ Email: admralwalker@gmail.com
 
 ## What I work with
 
-AWS: Lambda, API Gateway, DynamoDB, S3, CloudFront, Cognito, EventBridge, SQS, SNS, SES, Step Functions, Amazon Bedrock, IAM, Route 53, CloudWatch, CloudFormation
+Cloud (AWS in production): Lambda, API Gateway, DynamoDB, S3, CloudFront, Cognito, EventBridge, SQS, SNS, SES, Step Functions, Amazon Bedrock, IAM, Route 53, CloudWatch, CloudFormation
 
 Languages: Node.js, Python, JavaScript
 
-AI: Claude and Claude Code (daily), Amazon Bedrock, prompt engineering, LLM workflow automation
+AI: AI coding assistants (Claude Code), Amazon Bedrock, prompt engineering, LLM workflow automation
 
 ## Certifications
 
